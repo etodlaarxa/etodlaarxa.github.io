@@ -17,6 +17,12 @@
   font-size: 60px;
   color: #27aae0;
 }
+#msg-box3-17 .mbr-header .mbr-header__text {
+  text-align: right;
+}
+#msg-box3-17 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
 #slider-11 H1 {
   color: #51ccff;
   font-size: 36px;
